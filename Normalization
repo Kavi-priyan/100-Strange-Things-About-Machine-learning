@@ -129,4 +129,4 @@ $$
 
 **Challenge:** Take the example above, add a new feature “Height (cm)” ranging 150–200. Normalize it and show how KNN nearest neighbors change. You’ll see the subtle but massive effect normalization has.
 
----
+
