@@ -39,8 +39,7 @@ Normalization is crucial because:
 | Method                      | Formula                                         | When to use                                                                                       |     |                                           |
 | --------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------- | --- | ----------------------------------------- |
 | **Min-Max Scaling**         | $x' = \frac{x - x_{\min}}{x_{\max} - x_{\min}}$ | When you want all features in \[0,1] range, e.g., neural networks with sigmoid/tanh activation.   |     |                                           |
-| **Z-score Standardization** | $x' = \frac{x - \mu}{\sigma}$                   | When features have different distributions or outliers; used widely in gradient-based algorithms. |     |                                           |
-| **Max Absolute Scaling**    | ( x' = \frac{x}{                                | x\_{\max}                                                                                         | } ) | For sparse data like text vectorizations. |
+| **Z-score Standardization** | $x' = \frac{x - \mu}{\sigma}$                   | When features have different distributions or outliers; used widely in gradient-based algorithms. |     |                                           |                                                                                  
 | **Robust Scaling**          | $x' = \frac{x - \text{median}}{\text{IQR}}$     | When dataset has strong outliers.                                                                 |     |                                           |
 
 ---
