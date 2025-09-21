@@ -2,5 +2,5 @@
 
 
 ## Table of Contents
-* [Normalization](https://github.com/Kavi-priyan/100-Strange-Things-About-Machine-learning/blob/main/Normalization%20in%20Machine%20Learning.md)](https://github.com/Kavi-priyan/100-Strange-Things-About-Machine-learning/blob/main/Normalization%20in%20Machine%20Learning.md)
+* [Normalization](https://github.com/Kavi-priyan/100-Strange-Things-About-Machine-learning/blob/main/Normalization%20in%20Machine%20Learning.md)
 
