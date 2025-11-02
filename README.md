@@ -5,3 +5,5 @@
 * [Normalization](https://github.com/Kavi-priyan/100-Strange-Things-About-Machine-learning/blob/main/Normalization%20in%20Machine%20Learning.md)
 
 * [Linear Regression](https://github.com/Kavi-priyan/100-Strange-Things-About-Machine-learning/blob/main/Linear%20Regression.ipynb)
+
+* [Neural Network Hallucinations](https://github.com/Kavi-priyan/100-Strange-Things-About-Machine-learning/blob/main/Neural%20Network%20Hallucinations.md)
